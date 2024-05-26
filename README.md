@@ -7,7 +7,7 @@ Install Pathway , Langchain and other required packages.
 ```
 pip install langchain openai chromadb tiktoken unstructured
 ```
-You can edit constants.py. default to your OpenAI API key and rename constants.py. and put your data in data/data.txt.
+You can edit 'constants.py.default' to your OpenAI API key and rename 'constants.py.' and put your data in 'data/data.txt'.
 
 ## Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
