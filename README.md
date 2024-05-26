@@ -38,7 +38,7 @@ set `TEMPERATURE=0.0`
 set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 
 
-## 3. Free API key use GROQ (small chatbot)
+## 3. For free API key use GROQ or other (small chatbot)
 
 install groq to same repository
 ```pip install groq```
