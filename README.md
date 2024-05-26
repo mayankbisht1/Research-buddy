@@ -44,8 +44,7 @@ set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 install groq to same repository
 ```pip install groq```
 
-copy file chatbot.py 
-edit question and execute 
+copy file chatbot.py and edit the question and execute 
 ```python chatbot.py```
 
 ### Some prompt examples 
