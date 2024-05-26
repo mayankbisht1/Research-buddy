@@ -14,7 +14,10 @@ You can edit `constants.py.default` to your OpenAI API key, rename `constants.py
 To initialize and set up the client, you must give either the URL or the host and port of your document indexing pipeline. The code provided utilizes a publicly accessible demonstration pipeline, which can be accessed using the REST API at `https://demo-document-indexing.pathway.stream.` This demonstration imports documents from Google Drive and Sharepoint and creates an index for efficiently accessing the information.
 
 ## Data stored in local drive 
-
+So you want to store data locally no problem! Follow the steps:
+Step 1 : Clone the entire repository  
+`git clone <https://github.com/username/repository.git>`
+Step 2: 
 
 ## Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
