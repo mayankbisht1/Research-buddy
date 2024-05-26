@@ -10,7 +10,7 @@ pip install langchain openai chromadb tiktoken unstructured
 ```
 You can edit `constants.py.default` to your OpenAI API key, rename `constants.py.`, and put your data in `data/data.txt`.
 
-##  1.Data Pipeline (For docs uploaded in Google Drive)
+##  1. Data Pipeline (For docs uploaded in Google Drive)
 To initialize and set up the client, you must give either the URL or the host and port of your document indexing pipeline. The code provided utilizes a publicly accessible demonstration pipeline, which can be accessed using the REST API at `https://demo-document-indexing.pathway.stream.` This demonstration imports documents from Google Drive and Sharepoint and creates an index for efficiently accessing the information.
 
 ## 2. Data stored in local drive 
@@ -41,8 +41,8 @@ set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 
 ## 4. For free API key use GROQ or other (small chatbot)
 
-install groq to same repository
-create new groq account and apply for API key & don't forget to save it 
+Install groq to same repository
+Create new groq account and apply for API key & don't forget to save it.
 
 ```pip install groq```
 
