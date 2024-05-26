@@ -42,11 +42,11 @@ set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 ## 4. For free API key use GROQ or other (small chatbot)
 
 install groq to same repository
-create new groq account and apply for API key save it 
+create new groq account and apply for API key & don't forget to save it 
 
 ```pip install groq```
 
-copy file chatbot.py and edit the  API key, question and execute 
+copy file chatbot.py and edit the  API key, question and for execution
 ```python chatbot.py```
 
 ### Some prompt examples 
