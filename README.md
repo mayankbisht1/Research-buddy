@@ -65,7 +65,7 @@ chat_completion = client.chat.completions.create(
             "content": "What is weather today" # add your question here
         }
     ],
-    model="mixtral-8x7b-32768",
+    model="mixtral-8x7b-32768", # could change the model refer documentation for Groq
 )
 
 print(chat_completion.choices[0].message.content)```
