@@ -23,7 +23,7 @@ Build a .env file in the project's main directory using the touch command `touc
 
 ### Step 3: Using windows 
 
-set `OPENAI_API_TOKEN={OPENAI_API_KEY}`
+`set `OPENAI_API_TOKEN={OPENAI_API_KEY}`
 
 set `EMBEDDER_LOCATOR=text-embedding-ada-002`
 
@@ -35,7 +35,7 @@ set `MAX_TOKENS=200`
 
 set `TEMPERATURE=0.0`
 
-set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
+set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}``
 
 
 
