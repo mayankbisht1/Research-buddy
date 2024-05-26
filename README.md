@@ -19,7 +19,7 @@ So you want to store data locally no problem! Follow the steps:
 `git clone <https://github.com/username/repository.git>`
 
 ### Step 2: Create a new file .env 
-Build a .env file in the project's main directory using the touch command `touch .env`
+Build a .env file in the project's main directory using the touch command `touch.env`
 
 ### Step 3: Using windows 
 
