@@ -38,46 +38,22 @@ set `TEMPERATURE=0.0`
 set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 
 
-## 3. For free API key use GROQ or other (small chatbot)
+
+## 4. For free API key use GROQ or other (small chatbot)
 
 install groq to same repository
 ```pip install groq```
 
-create file chatbot.py ``` vim chatbot.py``` or ```nano chatbot.py```
-copy the following and edit question 
-```import os
-
-from groq import Groq
-
-client = Groq(
-    # This is the default and can be omitted
-    api_key=os.environ.get("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"),
-)
-
-chat_completion = client.chat.completions.create(
-    messages=[
-        {
-            "role": "system",
-            "content": "you are a helpful assistant."
-        },
-        {
-            "role": "user",
-            "content": "What is weather today" # add your question here
-        }
-    ],
-    model="mixtral-8x7b-32768", # could change the model refer documentation for Groq
-)
-
-print(chat_completion.choices[0].message.content)```
-
-
-execute 
+copy file chatbot.py 
+edit question and execute 
 ```python chatbot.py```
 
-
-
-## Some prompt examples 
+### Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
 ```
 YOur next TA duty will be on 7th July in room no. 101 with Btech group-4.
 ```
+
+
+
+
