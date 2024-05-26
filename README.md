@@ -38,7 +38,11 @@ set `TEMPERATURE=0.0`
 set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 
 
-## 3. Free API key use GROQ
+## 3. Free API key use GROQ (small chatbot)
+
+install groq to same repository
+```pip install groq```
+
 create file chatbot.py ``` vim chatbot.py``` or ```nano chatbot.py```
 copy the following and edit question 
 ```import os
