@@ -10,8 +10,11 @@ pip install langchain openai chromadb tiktoken unstructured
 ```
 You can edit `constants.py.default` to your OpenAI API key, rename `constants.py.`, and put your data in `data/data.txt`.
 
-## Data Pipeline
+## Data Pipeline ( For docs uploaded in gdrive)
 To initialize and set up the client, you must give either the URL or the host and port of your document indexing pipeline. The code provided utilizes a publicly accessible demonstration pipeline, which can be accessed using the REST API at `https://demo-document-indexing.pathway.stream.` This demonstration imports documents from Google Drive and Sharepoint and creates an index for efficiently accessing the information.
+
+## Data stored in local drive 
+
 
 ## Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
