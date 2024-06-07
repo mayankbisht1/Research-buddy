@@ -16,7 +16,7 @@ To initialize and set up the client, you must give either the URL or the host an
 ## 2. Data stored in local drive 
 So you want to store data locally no problem! Follow the steps:
 ### Step 1 : Clone the entire repository  
-`git clone <https://github.com/username/repository.git>`
+`git clone <https://github.com/mayankbisht1/Research-buddy.git>`
 
 ### Step 2: Create a new file .env 
 Build a .env file in the project's main directory using the touch command `touch.env`
