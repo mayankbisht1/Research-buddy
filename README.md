@@ -41,8 +41,8 @@ set `DROPBOX_LOCAL_FOLDER_PATH={REPLACE_WITH_DROPBOX_RELATIVE_PATH}`
 
 ## 4. For free API key use GROQ or other (small chatbot)
 
-Install groq to same repository
-Create new groq account and apply for API key & don't forget to save it.
+Install groq to same repository,
+create new groq account and apply for API key & don't forget to save it.
 
 ```pip install groq```
 
@@ -52,7 +52,7 @@ copy file chatbot.py and edit the  API key, question and for execution
 ### Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
 ```
-Your next TA duty will be on 7th July in room no. 101 with Btech group-4.
+Your next TA duty will be on 7th July in room no.101 with Btech group-4.
 ```
 
 
