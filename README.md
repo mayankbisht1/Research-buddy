@@ -52,7 +52,7 @@ copy file chatbot.py and edit the  API key, question and for execution
 ### Some prompt examples 
 >When is my next TA duty. Also tell me room no and course no. 
 ```
-YOur next TA duty will be on 7th July in room no. 101 with Btech group-4.
+Your next TA duty will be on 7th July in room no. 101 with Btech group-4.
 ```
 
 
