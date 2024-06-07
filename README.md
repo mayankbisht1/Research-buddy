@@ -46,7 +46,7 @@ create new groq account and apply for API key & don't forget to save it.
 
 ```pip install groq```
 
-copy file chatbot.py and edit the  API key, question and for execution
+copy file chatbot.py and edit the  API key, question, path for pdf file and for execution
 ```python chatbot.py```
 
 ### Some prompt examples 
