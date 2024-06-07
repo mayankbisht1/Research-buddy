@@ -52,7 +52,7 @@ copy file chatbot.py and edit the  API key, question, path for pdf file and for 
 ### Some prompt examples 
 
 ## Demo
-(https://github.com/mayankbisht1/Research-buddy/assets/143092091/237a96a1-2bdd-48cc-8d73-01d98dfedc24)
+https://github.com/mayankbisht1/Research-buddy/assets/143092091/237a96a1-2bdd-48cc-8d73-01d98dfedc24
 >When is my next TA duty. Also tell me room no and course no. 
 ```
 Your next TA duty will be on 7th July in room no.101 with Btech group-4.
