@@ -52,7 +52,10 @@ copy file chatbot.py and edit the  API key, question, path for pdf file and for 
 ### Some prompt examples 
 
 ## Demo
-https://github.com/mayankbisht1/Research-buddy/assets/143092091/dfe2e6d3-3516-4ff4-9fce-f6baa2bd8520
+
+https://github.com/mayankbisht1/Research-buddy/assets/143092091/a26f7f31-d443-4695-8b8d-b6c8ec90de29
+
+
 >When is my next TA duty. Also tell me room no and course no.
 
 ```
